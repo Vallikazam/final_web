@@ -17,12 +17,12 @@ Summer is the perfect time for travel and new experiences. We’ve prepared a gu
 
 ## Screenshots
 
-[Screenshot 1](screenshots/screenshot1.png)
-[Screenshot 2](screenshots/screenshot1.png)
-[Screenshot 3](screenshots/screenshot1.png)
-[Screenshot 4](screenshots/screenshot1.png)
-[Screenshot 5](screenshots/screenshot1.png)
-[Screenshot 6](screenshots/screenshot1.png)
+[Screenshot 1](IMG/home-1.png)
+[Screenshot 2](IMG/home-2.png)
+[Screenshot 3](IMG/home-3.png)
+[Screenshot 4](IMG/home-4.png)
+[Screenshot 5](IMG/login.png)
+[Screenshot 6](IMG/profile.png)
 
 ---
 
