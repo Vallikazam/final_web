@@ -17,38 +17,24 @@ Summer is the perfect time for travel and new experiences. We’ve prepared a gu
 
 ## Screenshots
 
-there
+[Screenshot 1](screenshots/screenshot1.png)
+[Screenshot 2](screenshots/screenshot1.png)
+[Screenshot 3](screenshots/screenshot1.png)
+[Screenshot 4](screenshots/screenshot1.png)
+[Screenshot 5](screenshots/screenshot1.png)
+[Screenshot 6](screenshots/screenshot1.png)
 
 ---
 
 ## Functionalities
-
-### profile.html
-- **User Profile Management:**  
-  Add, retrieve, update, and delete user data such as name, email, education group, and coding ability.
-
-- **Real-Time Timer:**  
-  Displays the current time dynamically on the page.
-
-- **Background Design:**  
-  A visually appealing background with a fixed image and gradient overlay.
-
-- **Navigation:**  
-  A button redirects users to the main page.
-
-- **Responsive Design:**  
-  The layout adapts to different screen sizes for better usability.
-
-- **Styled Buttons:**  
-  All buttons have gradient backgrounds with hover animations.
-
 ### index.html
 - **Home Section**:
   - Displays an introduction about summer travel destinations with a welcoming message.
   - Includes an interactive button for contacting the author.
+  - Includes an interactive button, which will run away from the cursor all the time.
 
 - **Profile Section**:
-  - Accessible via the navigation menu to view or edit user profiles.
+  - Accessible via the navigation menu to view, update and add user profiles .
 
 - **Destination Sections (Greece, Spain, Norway)**:
   - Provides detailed information about top destinations, including:
@@ -57,31 +43,43 @@ there
     - Unique highlights of each location.
 
 - **Contact Section**:
-  - Displays contact details, including phone, university, and email.
-  - Features a functional contact form to send messages.
+  - Displays contact information like phone, university, and email.
+  - Features a functional contact form.(only checking the correct filling)
 
 - **Responsive Navigation**:
   - Side navigation menu with links to all sections.
   - Icons and tooltips enhance usability.
 
 - **Background and Design Customization**:
-  - Dynamic gradient and fixed background image for a modern aesthetic.
   - Supports multiple theme colors with a style switcher.
 
 - **Interactive Features**:
   - Button sound effects for enhanced user experience.
   - "Typing effect" text animation.
 
-- **Mobile Responsiveness**:
-  - Optimized layout and design for different screen sizes and devices.
-
 - **Logout Functionality**:
   - A logout button is integrated into the navigation menu.
+
+### profile.html & login.html
+- **User Profile Management:**  
+  Add, retrieve, update, and delete user data such as name, email, education group, and coding ability.
+
+- **Storing Data on Firebase DB**
+  Store the data on net database.
+  
+- **Real-Time Timer:**  
+  Displays the current time on the page.
+
+- **Background Design:**  
+  A visually appealing background with a fixed image and gradient overlay.
+
+- **Styled Buttons:**  
+  All buttons have gradient backgrounds with hover animations.
+
   ---
 
   ## Footer
 
 📞 **Contact:**  
 - Phone: 8(123)456-78-90  
-- Name: Alinur Zhumadil  
 - Email: alinur_zhumadil@gmail.com
