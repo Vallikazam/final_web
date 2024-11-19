@@ -100,6 +100,6 @@ document.addEventListener("DOMContentLoaded", () => {
     /* Button to Main Page */
     const mainPageBtn = document.getElementById("mainPageBtn");
     mainPageBtn.addEventListener("click", () => {
-        window.location.href = "index.html";
+        window.location.href = "home.html";
     });
 });
