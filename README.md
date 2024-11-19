@@ -27,7 +27,7 @@ Summer is the perfect time for travel and new experiences. We’ve prepared a gu
 ---
 
 ## Functionalities
-### index.html
+### home.html
 - **Home Section**:
   - Displays an introduction about summer travel destinations with a welcoming message.
   - Includes an interactive button for contacting the author.
@@ -60,7 +60,7 @@ Summer is the perfect time for travel and new experiences. We’ve prepared a gu
 - **Logout Functionality**:
   - A logout button is integrated into the navigation menu.
 
-### profile.html & login.html
+### profile.html & index.html
 - **User Profile Management:**  
   Add, retrieve, update, and delete user data such as name, email, education group, and coding ability.
 
