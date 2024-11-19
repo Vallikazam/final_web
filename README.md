@@ -23,6 +23,7 @@ there
 
 ## Functionalities
 
+### profile.html
 - **User Profile Management:**  
   Add, retrieve, update, and delete user data such as name, email, education group, and coding ability.
 
@@ -41,6 +42,41 @@ there
 - **Styled Buttons:**  
   All buttons have gradient backgrounds with hover animations.
 
+### index.html
+- **Home Section**:
+  - Displays an introduction about summer travel destinations with a welcoming message.
+  - Includes an interactive button for contacting the author.
+
+- **Profile Section**:
+  - Accessible via the navigation menu to view or edit user profiles.
+
+- **Destination Sections (Greece, Spain, Norway)**:
+  - Provides detailed information about top destinations, including:
+    - Key attractions.
+    - Best travel times.
+    - Unique highlights of each location.
+
+- **Contact Section**:
+  - Displays contact details, including phone, university, and email.
+  - Features a functional contact form to send messages.
+
+- **Responsive Navigation**:
+  - Side navigation menu with links to all sections.
+  - Icons and tooltips enhance usability.
+
+- **Background and Design Customization**:
+  - Dynamic gradient and fixed background image for a modern aesthetic.
+  - Supports multiple theme colors with a style switcher.
+
+- **Interactive Features**:
+  - Button sound effects for enhanced user experience.
+  - "Typing effect" text animation.
+
+- **Mobile Responsiveness**:
+  - Optimized layout and design for different screen sizes and devices.
+
+- **Logout Functionality**:
+  - A logout button is integrated into the navigation menu.
   ---
 
   ## Footer
